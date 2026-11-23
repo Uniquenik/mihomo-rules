@@ -1,0 +1,23 @@
+payload:
+  # AI / Antigravity
+  - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,cloudcode-pa.googleapis.com
+  - DOMAIN,autopush-cloudcode-pa.sandbox.googleapis.com
+  - DOMAIN,preprod-daily-cloudcode-pa.sandbox.googleapis.com
+  - DOMAIN,generativelanguage.googleapis.com
+  - DOMAIN,aiplatform.googleapis.com
+  - DOMAIN-WILDCARD,*-aiplatform.googleapis.com
+  - DOMAIN,aicode.googleapis.com
+  - DOMAIN,autopush-aicode.sandbox.googleapis.com
+  - DOMAIN,preprod-aicode.sandbox.googleapis.com
+
+  # Auth / OAuth
+  - DOMAIN,oauth2.googleapis.com
+  - DOMAIN,accounts.google.com
+  - DOMAIN,sts.googleapis.com
+
+  # --- Telemetry ---
+  - DOMAIN,play.googleapis.com
+  - DOMAIN,firebaselogging.googleapis.com
+  - DOMAIN,firebaselogging-pa.googleapis.com
+  - DOMAIN,clientmetrics-pa.googleapis.com
